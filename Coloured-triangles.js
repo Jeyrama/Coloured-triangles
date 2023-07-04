@@ -30,3 +30,6 @@ Note:
   there will be at least one letter so you do not have to test for invalid input.
   If you are only given one colour as the input, return that colour.
 */
+
+
+// Solution
