@@ -41,3 +41,5 @@ const triangle = row => {
   }
   return reduced.length > 1 ? triangle(reduced) : reduced;
 }
+
+// or
